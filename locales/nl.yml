@@ -1,0 +1,20 @@
+components:
+  logo:
+    its: zijn
+    corn: maïs
+  nav:
+    firstLink: ik kan het je vertellen
+    secondLink: alles over het
+pages:
+  '404':
+    title: pagina niet gevonden
+  index:
+    title: een grote bult met knoppen
+    lyrics:
+      firstLine: het heeft het sap (het heeft het sap)
+      secondLine: ik kan me niets mooiers voorstellen (woo)
+      highPoint: het is maïs!
+      thirdLine: ik kan het je vertellen...
+      callToAction: alles over het
+  about:
+    title: alles over het

@@ -1,0 +1,20 @@
+components:
+  logo:
+    its: está
+    corn: milho
+  nav:
+    firstLink: eu posso te contar
+    secondLink: tudo sobre isto
+pages:
+  '404':
+    title: página não encontrada
+  index:
+    title: um grande caroço com botões
+    lyrics:
+      firstLine: tem o suco (tem o suco)
+      secondLine: eu não posso imaginar uma coisa mais bonita (woo)
+      highPoint: é milho!
+      thirdLine: eu posso te contar...
+      callToAction: tudo sobre isto
+  about:
+    title: tudo sobre isto

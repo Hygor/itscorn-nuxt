@@ -1,0 +1,20 @@
+components:
+  logo: 
+   its: it's
+   corn: corn
+  nav: 
+    firstLink: I can tell you
+    secondLink: All about it
+pages:
+  index:
+    title: A big lump with knobs
+    lyrics: 
+      firstLine: It has the juice (it has the juice)
+      secondLine: I can't imagine a more beautiful thing (Woo)
+      highPoint: It's corn!
+      thirdLine: I can tell you...
+      callToAction: all about it
+  about:
+    title: All about it
+  404:
+    title: Page Not Found

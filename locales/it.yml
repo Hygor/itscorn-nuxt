@@ -1,0 +1,20 @@
+components:
+  logo:
+    its: è
+    corn: mais
+  nav:
+    firstLink: posso dirti
+    secondLink: tutto su esso
+pages:
+  '404':
+    title: pagina non trovata
+  index:
+    title: un grosso grumo con le manopole
+    lyrics:
+      firstLine: ha il succo (ha il succo)
+      secondLine: non riesco a immaginare una cosa più bella (woo)
+      highPoint: è mais!
+      thirdLine: posso dirti...
+      callToAction: tutto su esso
+  about:
+    title: tutto su esso

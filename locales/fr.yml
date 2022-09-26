@@ -1,0 +1,20 @@
+components:
+  logo:
+    its: c'est
+    corn: maïs
+  nav:
+    firstLink: je peux vous dire
+    secondLink: tout à ce sujet
+pages:
+  '404':
+    title: page non trouvée
+  index:
+    title: une grosse bosse avec des potards
+    lyrics:
+      firstLine: il a le jus (il a le jus)
+      secondLine: je ne peux pas imaginer une chose plus belle (woo)
+      highPoint: c'est du maïs !
+      thirdLine: je peux vous dire...
+      callToAction: tout à ce sujet
+  about:
+    title: tout à ce sujet
